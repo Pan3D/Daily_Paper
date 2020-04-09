@@ -1,6 +1,6 @@
 ### 7 April, 2020
 
-3D: 13 papers，three of them are publishhed in CVPR.
+3D: 13 papers，three of them are published in CVPR.
 
 3D medical image: 2 papers，published in MICCAI19 and ICPR20 seperately.
 
