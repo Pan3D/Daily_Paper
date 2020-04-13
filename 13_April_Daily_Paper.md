@@ -2,14 +2,6 @@
 
 Graph: 1 paper.
 
-翻阅公众号历史记录，查看每日 arXiv 论文更新。
-
-3D方向3篇，其中1篇ICLR。图结构方向有1篇文章。
-
-文末更多 CVPR2020 3D方向论文整理。
-
-题目为机器翻译，仅供参考。
-
 ---
 
 ##### [1] Learning to Explore using Active Neural SLAM
