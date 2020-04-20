@@ -16,3 +16,4 @@ Includes 3D cassification/segmentation, detection(auto-drive), generation/recons
  - [15 April](https://github.com/Pan3D/Daily_Paper/blob/master/15_April_Daily_Paper.md)
  - [16 April](https://github.com/Pan3D/Daily_Paper/blob/master/16_April_Daily_Paper.md)
  - [17 April](https://github.com/Pan3D/Daily_Paper/blob/master/17_April_Daily_Paper.md)
+ - [20 April](https://github.com/Pan3D/Daily_Paper/blob/master/20_April_Daily_Paper.md)
